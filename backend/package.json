@@ -1,0 +1,27 @@
+{
+  "name": "mern-sales-dashboard",
+  "version": "1.0.0",
+  "description": "This is the dashboard of sales using mern stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaishnavi-456/Sales_Dashboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vaishnavi-456/Sales_Dashboard/issues"
+  },
+  "homepage": "https://github.com/Vaishnavi-456/Sales_Dashboard#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  }
+}
