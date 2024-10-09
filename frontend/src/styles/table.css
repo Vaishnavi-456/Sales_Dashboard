@@ -24,3 +24,21 @@
 .transactionTable tr:hover {
     background-color: #e0f7fa; 
 }
+
+button {
+    background-color: #00796b;
+    color: white; 
+    padding: 10px 20px;
+    border: 1px solid #00796b;
+    border-radius: 5px; 
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  
+  button:hover {
+    background-color: #004d40;
+  }
+  
+
