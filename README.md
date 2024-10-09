@@ -36,21 +36,24 @@
 
 3. **Install server dependencies**:
    cd backend
+   
    npm install
 
-4. **Set up your environment variables**:
+5. **Set up your environment variables**:
    **Create a .env file in the backend directory and include your database URL**:
    PORT=3000
+   
    DB_URL=your_mongodb_connection_string
 
-5. **Run the backend server**:
+7. **Run the backend server**:
    npm start
 
-6. **Install frontend dependencies**:
+8. **Install frontend dependencies**:
    cd frontend
+   
    npm install
 
-7. **Run the frontend application**:
+10. **Run the frontend application**:
   npm start
 
   Open your browser and navigate to http://localhost:3001 to view the application.
